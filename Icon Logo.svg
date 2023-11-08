@@ -4,21 +4,13 @@
 	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
-	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:#1A1A1A;}
+	.st1{fill:#FC3693;}
 </style>
-<path class="st0" d="M348.36,400H51.64C23.12,400,0,376.88,0,348.36V51.64C0,23.12,23.12,0,51.64,0h296.72
-	C376.88,0,400,23.12,400,51.64v296.72C400,376.88,376.88,400,348.36,400z"/>
+<path class="st0" d="M378,396.9H22.4c-10.3,0-18.7-8.4-18.7-18.7v-356c0-10.3,8.4-18.7,18.7-18.7H378c10.3,0,18.7,8.4,18.7,18.7v356
+	C396.7,388.5,388.3,396.9,378,396.9z"/>
 <g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="103.3781" y1="86.2677" x2="169.1549" y2="86.2677">
-		<stop  offset="0" style="stop-color:#37A171"/>
-		<stop  offset="0.1753" style="stop-color:#48AA62"/>
-		<stop  offset="0.439" style="stop-color:#5BB552"/>
-		<stop  offset="0.7106" style="stop-color:#66BB48"/>
-		<stop  offset="1" style="stop-color:#6ABD45"/>
-	</linearGradient>
-	<polygon class="st1" points="103.38,43.71 169.15,43.71 169.15,111.45 103.38,128.83 	"/>
+	<polygon class="st1" points="103.4,43.7 169.1,43.7 169.1,111.4 103.4,128.8 	"/>
 </g>
-<polygon class="st2" points="103.38,126.48 103.28,318.83 169.15,299.07 169.15,240.38 221.04,356.25 296.72,356.29 221,188.67 
-	276.63,85.53 199.19,102.86 169.15,156.68 169.15,109.98 "/>
+<polygon class="st1" points="103.4,126.5 103.3,318.8 169.1,299.1 169.1,240.4 221,356.2 296.7,356.3 221,188.7 276.6,85.5 
+	199.2,102.9 169.1,156.7 169.1,110 "/>
 </svg>
